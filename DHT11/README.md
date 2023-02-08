@@ -7,7 +7,7 @@ Sensor simples, mede temperatura, pressão
 <h1> Informações Técnicas </h1>
 	
 <ul>
-<li>leitura analogico</li>
-<li>Faixa de leitura 30°C- 90°C</li>
-<li>...</li>
+	<li>leitura analogico</li>
+	<li>Faixa de leitura 30°C- 90°C</li>
+	<li>...</li>
 <ul>
