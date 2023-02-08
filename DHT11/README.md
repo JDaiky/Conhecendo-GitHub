@@ -5,6 +5,9 @@
 	### Sensor simples, mede temperatura, pressão
 
 # Informações Técnicas
-	- mede particulas
-	- sensor preciso
-	- leitura analogica
+	
+	<ul>
+		<li>leitura analogico</li>
+		<li>Faixa de leitura 30°C- 90°C</li>
+		<li>...</li>
+	<ul>
