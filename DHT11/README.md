@@ -4,7 +4,7 @@
 # Descrição do Sensor
 	### Sensor simples, mede temperatura, pressão
 
-# Informações Técnicas
+<h1>Informações Técnicas</h1>
 	
 	<ul>
 		<li>leitura analogico</li>
