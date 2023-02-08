@@ -5,6 +5,7 @@
 	Sensor simples, mede temperatura, pressão
 <h1>Informações Técnicas</h1>
 	<ul>
-		<li>quente</li>
-		<li>frio</li>
+		<li>mede particulas</li>
+		<li>sensor preciso</li>
+		<li>leitura analogica</li>
 	<ul>
